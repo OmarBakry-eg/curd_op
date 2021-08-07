@@ -4,7 +4,6 @@
 
 const { MongoClient, ObjectId } = require("mongodb"); //destructring
 
-const url = "mongodb://127.0.0.1:27017"
 
 const dbName = "task-manager"
 
